@@ -1,0 +1,32 @@
+#body1{
+    font-family: 'Roboto Slab', serif;
+    background-color: beige;
+}
+
+#div_header{
+    background-color: #000100;
+    color: whitesmoke;
+}
+
+#div_header p{
+    font-style: italic;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+#main_div button{
+    font-weight: bold;
+    margin-top: 100px;
+    letter-spacing: 1px;
+}
+
+#copy_right_footer{
+    background-color: blanchedalmond;
+    color: darkcyan;
+    font-size: 20px;
+    text-shadow: 100px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
